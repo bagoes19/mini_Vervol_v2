@@ -51,6 +51,6 @@
     </tbody>
   </table>
 <div>
-  <a href="/students/create">Create and upload file</a>
+  <a href="/students/create">Create data</a>
 @endsection
 
